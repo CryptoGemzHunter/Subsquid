@@ -2,9 +2,11 @@
 
 Install & Update
 1/
+    
     sudo apt update -y && sudo apt upgrade -y
 
 2/
+    
     sudo apt install npm -y
 
 3/
