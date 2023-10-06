@@ -28,3 +28,14 @@ Channel:
     Github: https://github.com/NodeValidatorVN
     X: https://x.com/NodeValidatorVN
     Linktree: https://linktr.ee/validatorvn
+
+
+4/ Copy file vao WSL 
+
+
+       cp /path/to/source /path/to/dest/directory/
+       cp /mnt/c/singleProc.key ./query-gateway/keys
+
+
+
+   
