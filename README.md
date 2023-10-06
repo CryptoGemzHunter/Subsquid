@@ -1,3 +1,5 @@
+Cần lên WSL2 
+
 # Subsquid
 
 Install & Update
